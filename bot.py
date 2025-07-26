@@ -5,7 +5,7 @@ import re
 
 TOKEN = "vk1.a.ZRJmWUQbDga9FSpNVkuy0m8nF_nRPwCacecCL7GacBT1hp7Oo05_SIMFYMQEUFQ93OyRQ0D7G0C3QvK9tRUk0ZKI83bBslA1YWb0J5SorzCZCwOD487aqlCmT-J3DYKYWA5mozii5hJcTUZKP0dBWDo9ElBC_CoNrbgb196vx5_iEHzxkC4vHj8X72ZJK6v8_J_J59dgGC_ilerRTg05OQ"
 GROUP_ID = 231800195
-CONFIRMATION_TOKEN = ""
+CONFIRMATION_TOKEN = "47aab04a"
 
 BAD_WORDS = ["блять", "сука", "хуй", "пизда", "ебать", "тварь", "чмо", "гандон", "мразь","бля", "пиздец"]
 
